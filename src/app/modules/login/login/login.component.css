@@ -1,0 +1,33 @@
+.login-container {
+  display: table-cell;
+  vertical-align: middle;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border: 3px solid black;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.input-field {
+  width: 300px;
+  margin-top: 1rem;
+  border: 1px solid black;
+}
+
+.btn-signin {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 336px;
+  background-color: green;
+  color: white;
+}
+
+.icon {
+  border: 1px solid black;
+  height: 30px;
+  padding: 6px;
+  margin-right: 6px;
+  margin-top: -4px;
+}
